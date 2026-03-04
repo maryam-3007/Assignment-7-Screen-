@@ -1,16 +1,18 @@
-# assignment7
+Destination Profile UI – Flutter(Assignment-7)
 
-A new Flutter project.
 
-## Getting Started
+This project is a simple Flutter UI screen that displays a travel destination profile.
+It includes an image header, destination details, overview text, and a booking button.
 
-This project is a starting point for a Flutter application.
+Features:
+-Custom app bar
+-Image header with favorite icon
+-Information cards (distance, duration, price)
+-Overview section
+-Book Now button
+-Clean dark theme UI
+-Reusable custom widgets
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built With:
+-Flutter
+-Dart
